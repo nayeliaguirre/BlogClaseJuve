@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agrícola El Caudillo</title>
+    <link>/</link>
+    <description>Recent content on Agrícola El Caudillo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El primer blog post del LNPP</title>
+      <link>/2020/03/12/el-primer-blog-post-del-lnpp/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/12/el-primer-blog-post-del-lnpp/</guid>
+      <description>Holas.
+Este es la primera entrada de blog que hacemos todos en bola. Estoy very proud de estar acá con vosotros! :3</description>
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hola, me llamo Cecilia Morelos Macouzet y soy Moreliana, Michoacana y Especialista en Ciencias del Comportamiento!
+Visita mis redes en los siguientes enlaces:
+  Enlace 1
+  Enlace 2
+  </description>
+    </item>
+    
+  </channel>
+</rss>
